@@ -1,0 +1,18 @@
+body {
+  background-color: powderblue;
+}
+nav {
+  width:100%;
+  overflow:auto;
+}
+nav div {
+  width:7%;  
+  float:left;
+  background-color:#8791e9;
+}
+
+nav div.login {
+  width: 3%;  
+  float:left;
+  background-color:#bbcec1;
+}
